@@ -11,7 +11,7 @@
 
   <!-- Aurjobs Testing AI Portal -->
   <url>
-    <loc>https://aurjobstestportalmainpage.onrender.com/</loc>
+    <loc>https://test.aurjobs.com/</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -19,7 +19,7 @@
 
   <!-- Aurjobs Sourcing AI Portal -->
   <url>
-    <loc>https://aurjobssourcingportalmainpage.onrender.com/</loc>
+    <loc>https://sourcing.aurjobs.com</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -27,7 +27,7 @@
 
   <!-- Aurjobs Screening AI Portal -->
   <url>
-    <loc>https://www.aurjobs.com/screening-ai-portal</loc>
+    <loc>https://screening.aurjobs.com</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -43,7 +43,7 @@
 
   <!-- About Us Page -->
   <url>
-    <loc>https://www.aurjobs.com/about-us</loc>
+    <loc>https://www.aurjobs.com/about</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
